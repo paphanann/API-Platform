@@ -229,7 +229,7 @@ class _ChannelsPageState extends State<ChannelsPage> {
     ChannelConnection(
       platform: 'TikTok Shop',
       shopName: 'MyTikTok_Store',
-      sellerId: '1122334455',
+      sellerId: '7494873841467884625',
       lastSync: '25/08/2026 10:30',
       syncFreq: '15 นาที',
       clientKey: 'tiktok_xxxxxxxxx',
@@ -241,7 +241,7 @@ class _ChannelsPageState extends State<ChannelsPage> {
     ChannelConnection(
       platform: 'Shopee',
       shopName: 'MyShopee_Store',
-      sellerId: '987654321',
+      sellerId: '1285749630',
       lastSync: '25/08/2026 10:28',
       syncFreq: '15 นาที',
       clientKey: 'shopee_xxxxxxxxx',
@@ -253,7 +253,7 @@ class _ChannelsPageState extends State<ChannelsPage> {
     ChannelConnection(
       platform: 'Lazada',
       shopName: 'MyLazada_Store',
-      sellerId: '432109876',
+      sellerId: 'THA9X7K2M5',
       lastSync: '25/08/2026 09:20',
       syncFreq: '30 นาที',
       clientKey: 'lazada_xxxxxxxxx',

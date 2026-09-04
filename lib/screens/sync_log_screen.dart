@@ -275,7 +275,7 @@ class SyncLogScreen extends StatelessWidget {
                     _logRow(
                       date: '25/08/2026 10:30',
                       platform: 'TikTok Shop',
-                      orderNo: '576461413038785752',
+                      orderNo: '585852727449781258',
                       status: 'Success',
                       docEntry: '10236',
                       docNum: 'SO-10236',
@@ -284,7 +284,7 @@ class SyncLogScreen extends StatelessWidget {
                     _logRow(
                       date: '25/08/2026 10:28',
                       platform: 'Shopee',
-                      orderNo: '24082501',
+                      orderNo: '260904A1B2C3D4E',
                       status: 'Error',
                       docEntry: '-',
                       docNum: '-',
@@ -293,7 +293,7 @@ class SyncLogScreen extends StatelessWidget {
                     _logRow(
                       date: '25/08/2026 10:20',
                       platform: 'Lazada',
-                      orderNo: '789456',
+                      orderNo: '934567890123456',
                       status: 'Pending',
                       docEntry: '-',
                       docNum: '-',
@@ -302,8 +302,8 @@ class SyncLogScreen extends StatelessWidget {
                     _logRow(
                       date: '25/08/2026 10:15',
                       platform: 'Shopee',
-                      orderNo: '24082502',
-                      status: 'Success',
+                      orderNo: '260904L9M2N3P4Q',
+                      status: 'Pending',
                       docEntry: '10234',
                       docNum: 'SO-10234',
                       message: 'Sync Success',
@@ -311,7 +311,7 @@ class SyncLogScreen extends StatelessWidget {
                     _logRow(
                       date: '25/08/2026 10:10',
                       platform: 'Lazada',
-                      orderNo: '799123',
+                      orderNo: '912345678901234',
                       status: 'Failed',
                       docEntry: '-',
                       docNum: '-',
